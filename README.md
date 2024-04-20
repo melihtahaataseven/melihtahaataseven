@@ -27,4 +27,4 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melihtahaataseven" alt="melihtahaataseven" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-![snake gif](https://github.com/melihtahaataseven/melihtahaataseven/blob/output/github-contribution-grid-snake.gif)
+
