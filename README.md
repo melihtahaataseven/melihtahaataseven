@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba, ben Melih Taha Ataseven</h1>
-<h3 align="center">Türkiye'de lise okuyan bir öğrenciyim, uğraştığım alanlar şuanlardır;</h3>
+<h3 align="center">Türkiye'de lise okuyan bir öğrenciyim, benim ile alakalı her şeye burdan ulaşabilirsiniz.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihtahaataseven&label=Profile%20views&color=0e75b6&style=flat" alt="melihtahaataseven" /> </p>
 
