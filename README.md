@@ -7,9 +7,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/melih taha ataseven" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melih taha ataseven" height="30" width="40" /></a>
 <a href="https://instagram.com/mtatasvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mtatasvn" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@atacybersecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@atacybersecurity" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@melihtaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@melihtaha" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/sgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/siberkorsan" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/siberkorsan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/siberkorsan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Bildiğim Her şey:</h3>
