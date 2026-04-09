@@ -12,5 +12,5 @@ As a student preparing for university entrance exams, I focus on my academic goa
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/melihtahaataseven) 
+🔗[LinkedIn](https://linkedin.com/in/melihtahaataseven)  
 📩 melihtahaataseven@gmail.com   📞 +90 533 716 1701
